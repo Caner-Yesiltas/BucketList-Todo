@@ -3,7 +3,7 @@
 
 <div align="center">
  <h1> 
-# Bucket List Adventure 🎯
+# Bucket List Adventure 🪣 
  </h1>
 </div>
 
