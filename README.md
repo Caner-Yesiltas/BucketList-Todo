@@ -88,9 +88,9 @@ Project Link: [https://bucket-list-todo-project.vercel.app/](https://bucket-list
 ---
 
 <div align="center">
-  Made with ❤️ by Caner Yesiltas
+  Made with 🪣 by Caner Yesiltas
 </div>
 
 <div align="center">
-  🎯 Dream Big, Take Risks! 🎯
+   Dream Big, Take Risks! 
 </div>
